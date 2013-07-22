@@ -1,4 +1,4 @@
-name = Calm base
+name = Calm Base
 description = Base tables to be used by calm based nodes.
 core = 7.x
 ; stylesheets[all][] =
