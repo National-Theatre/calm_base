@@ -1,0 +1,12 @@
+name = Calm base
+description = Base tables to be used by calm based nodes.
+core = 7.x
+; stylesheets[all][] =
+; scripts[] =
+; files[] =
+; dependencies[] =
+package = Calm
+php = 5.3
+version = 7.x-1.0 
+; configure =
+

@@ -1,0 +1,26 @@
+<?php
+/**
+ * @file
+ * calm_base.module
+ * @copyright The Royal National Theatre
+ * @author John-Paul Drawneek
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function calm_base_menu() {
+  return array();
+}
+/**
+ * Implements hook_theme().
+ */
+function calm_base_theme($existing, $type, $theme, $path) {
+  return array();
+}
+/**
+ * Implements hook_cron().
+ */
+function calm_base_cron() {
+
+}
